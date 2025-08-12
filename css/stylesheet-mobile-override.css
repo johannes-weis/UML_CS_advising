@@ -1,0 +1,5 @@
+.flex-grid {
+	& blockquote {
+		max-width: 100%;
+	}
+}

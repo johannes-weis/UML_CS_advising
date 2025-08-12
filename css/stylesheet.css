@@ -174,6 +174,8 @@ hr {
 		display: flex;
 		min-width: fit-content;
 
+		text-decoration: none;
+
 		& .uml-logo {
 			display: block;
 			height: var(--banner-height);
@@ -187,6 +189,7 @@ hr {
 
 			font: var(--font-logo);
 			color: var(--color-school-gold);
+			user-select: none;
 		}
 	}
 
@@ -302,9 +305,6 @@ div#copyright-msg {
 	margin-top: 40px;
 	/*margin: 20px var(--horizontal-margin);*/
 }
-
-
-
 
 table {
 	margin-left: auto;
