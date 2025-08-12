@@ -53,7 +53,7 @@ input_files := $(patsubst \
 output_files := $(patsubst %.md,%.html,$(input_files))
 
 # Phony rule
-.PHONY: all create_build_path build clean
+.PHONY: create_build_path build rebuild clean
 
 # Pattern rule to convert .md to .html, placing each output file into its
 # corresponding subdirectory within the build directory
