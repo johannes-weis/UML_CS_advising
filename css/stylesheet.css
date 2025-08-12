@@ -334,6 +334,7 @@ table {
 	}
 
 	& th {
+		width: 50%;
 		min-width: 50%;
 
 		border-bottom: var(--table-cell-border);
