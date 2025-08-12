@@ -35,11 +35,23 @@
 	/* Banner and Sidebar Sizes */
 	--banner-height: 60px;
 	--banner-margin: 20px;
+
+	/* Tables */
+	--table-cell-border: groove white 3px;
 }
 
 * {
 	font: var(--font-base);
 	color: var(--color-font-base);
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	color: var(--color-font-bold);
+	font: var(--font-bold);
 }
 
 body {
@@ -104,9 +116,9 @@ blockquote {
 	box-sizing: border-box;
 	width: fit-content;
 
-	/* Prevent flex displays from stretching blockquotes too wide */
-	max-width: 49%;
-
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 30px;
 	
 	/* Round off corners */
@@ -261,6 +273,8 @@ hr {
 		flex-grow: 1;
 		flex-shrink: 0;
 		margin: unset;
+		max-width: 49%;
+		min-width: 49%;
 	}
 }
 
@@ -287,4 +301,63 @@ div#copyright-msg {
 	text-align: center;
 	margin-top: 40px;
 	/*margin: 20px var(--horizontal-margin);*/
+}
+
+
+
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+
+	box-sizing: border-box;
+	width: 100%;
+	max-width: fit-content;
+
+	border-spacing: 0px;
+	border-collapse: collapse;
+	
+	/* Round off corners */
+	border-radius: 24px;
+
+	/* Add shadow and highlights simulate depth */
+	box-shadow: 2px 2px 2px 0px var(--color-shadow),
+				-1px -1px 0px 0px var(--color-highlight);
+	/* Simulate light bleeding onto surface by adding a gradient */
+	background-image: linear-gradient(to bottom right, var(--color-highlight), transparent 20%);
+
+	text-align: center;
+
+	& * {
+		padding: 10px;
+		background-color: transparent;
+	}
+
+	& th {
+		min-width: 50%;
+
+		border-bottom: var(--table-cell-border);
+
+		font: var(--font-bold);
+		color: var(--color-font-bold);
+	}
+
+	& th:not(:first-child) {
+		border-left: var(--table-cell-border);
+	}
+
+	& tr:not(:last-child) td {
+
+		border-bottom: var(--table-cell-border);
+		
+		font: var(--font);
+		color: var(--color-font);
+	}
+	& td:not(:first-child) {
+		border-left: var(--table-cell-border);
+	}
+}
+
+.text-center {
+	text-align: center;
 }
