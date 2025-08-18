@@ -30,10 +30,10 @@ title: Advising Information for Computer Science at UMass Lowell
 > [Options, dual majors, and minors]{.small}
 >
 > - [Options](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/){target="_blank"}
-> 	- General
-> 	- Bio-Cheminformatics
-> 	- Cybersecurity
-> 	- Data Science
+> 	- [General](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-general-2020.aspx){target="_blank"}
+> 	- [Bio-Cheminformatics](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-bio-cheminformatics-2020.aspx){target="_blank"}
+> 	- [Cybersecurity](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-cybersecurity-2020.aspx){target="_blank"}
+> 	- [Data Science](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-data-science-2020.aspx){target="_blank"}
 > - Dual Majors
 >	- [CS/ECE (Electrical & Computer Engineering)](https://www.uml.edu/catalog/undergraduate/engineering/departments/electrical-computer-engineering/degree-pathways/dp-ee-cs-2017.aspx){target="_blank"}
 >	- [CS/Mathematics](https://www.uml.edu/catalog/undergraduate/sciences/departments/mathematical-sciences/degree-pathways/dp-math-computer-science-2015.aspx){target="_blank"}
@@ -63,7 +63,7 @@ title: Advising Information for Computer Science at UMass Lowell
 > - [Electives for CS Majors (PDF)](../assets/PDF/GuideToCSandUniversityElectives.pdf){target="_blank"}
 > 	- [Project Sequences](./project_sequences/index.html){target="_blank"}
 > 	- Computer Science Electives
-> 	- [Technical Electives](){target="_blank"}
+> 	- Technical Electives
 > 	- [Natural Science Electives (PDF)](../assets/PDF/CSNaturalScienceElectives.pdf){target="_blank"}
 > 	- Arts and Humanities (AH) General Education
 > 	- Social Sciences (SS) General Education

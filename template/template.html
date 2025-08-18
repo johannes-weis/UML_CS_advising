@@ -2,19 +2,28 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+
+	<!-- Page Title -->
 	<title>$title$</title>
+
+	<!-- Platform Specific Stylesheets -->
 	<link rel="stylesheet" href="$curdir$/css/stylesheet.css">
 	<link rel="stylesheet" media="screen and (orientation: portrait)" href="$curdir$/css/stylesheet-mobile-override.css">
+	
+	<!-- Page Icon -->
 	<link rel="icon" type="image/x-icon" href="$curdir$/assets/favicon.ico">
 </head>
 <body>
+	<!-- Page Banner Is The Same Across All Pages -->
 	<div id="banner">
+		<!-- Logo and Home Page Link -->
 		<a id="banner-left" href="$curdir$/html/index.html">
 			<img class="uml-logo" src="$curdir$/assets/uml_logo.png" alt="UMass Lowell Logo">
 
 			<h1>Miner School<br>Advising</h1>	
 		</a>
 
+		<!-- Student Resource Buttons -->
 		<div id="banner-right">
 			<!-- Canvas Icon -->
 			<a target="_blank" class="student-resource-icon" href="https://canvas.uml.edu/">
@@ -42,7 +51,9 @@
 		</div>
 	</div>
 
+	<!-- Page content -->
 	<div id="content">
+		<!-- Disclaimer Message Is The Same Across All Pages -->
 		<blockquote id="disclaimer">
 			<h1>Disclaimer</h1>
 			<ul>
@@ -55,10 +66,10 @@
 			</ul>
 		</blockquote>
 
+		<!-- Markdown Is Converted To HTML And Placed At This Tag -->
 		$body$
 
-
-
+		<!-- Copyright Message Is The Same Across All Pages -->
 		<div id="copyright-msg">
 			<hr>
 			<span class="small" >Copyright &#169; 2025 by the Richard Miner School of Computer Science.  All rights reserved.  May be freely copied or excerpted for educational purposes with credit to the author.</span>
