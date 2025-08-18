@@ -10,5 +10,5 @@ This website is written primarily in Markdown in order to maintain readability o
 
 ## External Tools
 
-[Pandoc](https://pandoc.org/) is used to convert the Markdown files to HTML
+[Pandoc](https://pandoc.org/) is used to convert the Markdown files to HTML. <br>
 [Makefile](https://www.gnu.org/software/make/manual/make.html) is used with Pandoc to systematically target and convert the webpages to HTML format. 
