@@ -1,3 +1,5 @@
+![UMass Lowell Logo - Dark](/assets/sis_my_logo.png)
+
 # Computer Science Advising Page - Miner School of Computer and Information Sciences at University of Massachusetts Lowell
 
 This website is intended as a guide for Computer Science students at UMass Lowell. It provides students with information regarding the various degree pathways and options available to Computer Science majors, dual majors, and minors. It also includes resources for determining academic standing as well as graduation eligibility. It is important to note however, that this is **NOT** an official UMass Lowell website, but is instead hosted and maintained by the Miner School at UMass Lowell. The information on official UMass Lowell (www.uml.edu) websites takes precedence in the event that there is a conflict with the corresponding information on this website.
