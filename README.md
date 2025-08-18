@@ -1,4 +1,4 @@
-![UMass Lowell Logo - Dark](/assets/sis_my_logo.png)
+![UMass Lowell Logo - Dark](/assets/uml_logo.png)
 
 # Computer Science Advising Page - Miner School of Computer and Information Sciences at University of Massachusetts Lowell
 
