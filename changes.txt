@@ -4,7 +4,76 @@ Rearranged sections (L->R, T->B):
 404 Links:
 	That I replaced:
 		Part 4: Making the deans list -> ## University Policies: Academic Honors
+		Making the deans list / other honors
+
 		Part 6: General University Admissions Policies -> ## Transferring to UML: Undergrad Admissions
+		https://www.uml.edu/admissions/transfers/
+
 	That I didn't replace:
 		Part 2: Additional information on robotics minor
+		https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/robotics-minor.aspx
+
 		Part 3: Description of University General Education Requirements
+		https://www.uml.edu/catalog/undergraduate/core-curriculum/
+
+
+Fix:
+	Section 1: GenEd Requirements
+	Make it main level and rename to General Degree Requirements
+	https://www.uml.edu/catalog/undergraduate/policies/academic-policies/general-degree-requirements.aspx
+
+	Section 9 & 12:
+	Honors Thesis? Investigate that
+	
+	# Single Headline (bold) - Cleaner
+
+	Section 1:
+	Remove An overview
+
+	Section 2:
+	Computer Science Degree Pathways
+
+	Section 3 Academic Information
+
+
+	Section 4: Elective Guides
+
+	Section 5: Information for Non-CS Majors
+
+	Section 6: Remove Transfer Resources
+
+	Section 7: Just office of the registrar remove for regi
+
+	Section 8: Just UML Honors Program
+
+	Section (9 & 10): remove second heading
+
+	---
+
+	Possible Sections:
+		Advising help for currently enrolled students -> Degree pathways, CS Electives, Proj Seq, Additional Requirements
+		Graduate Programs
+		Transfer Students
+		Honors Students
+		Non-major CS students?
+
+	---
+
+	Add miner school icon to top bar
+
+	---
+
+	Potential Section:
+		UML official pages
+		UML Policies
+		UML Registrar
+		Transfer Information
+		Non-CS Majors
+
+TODO:
+	Change titles of sections (Remove  Sub-titles)
+	Add link to Miner School on top bar (icon)
+	Restructure HTML directories (index in main)
+	Add additional information options to Makefile
+	Finish documentation / README.md file
+
