@@ -11,4 +11,5 @@ This website is written primarily in Markdown in order to maintain readability o
 ## External Tools
 
 [Pandoc](https://pandoc.org/) is used to convert the Markdown files to HTML. <br>
+[Rsync](https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/) us used within the Makefile to copy directory structures. It comes automatically installed on most linux distrobutions. <br>
 [Makefile](https://www.gnu.org/software/make/manual/make.html) is used with Pandoc to systematically target and convert the webpages to HTML format. 
