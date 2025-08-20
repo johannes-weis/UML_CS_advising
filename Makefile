@@ -1,42 +1,41 @@
-#-------------------------------------------------------------------------------
-## This Makefile relies on "Pandoc", a command line tool to convert file
-## formats.
-##
-## Pandoc can be found here: https://pandoc.org/installing.html
-##
-
-##
-## All assets including the stylesheet must be declared in the template file
-## using the $curdir$ variable to orient the file structure. For example: 
-## 		<link rel="stylesheet" href="$curdir$/css/stylesheet.css">
-## Is used to include the stylesheet.
-##
-
-##
-## Any and all changes to the template.html file will require a full rebuild
-##
-
-##
-## All file and folder names must contain no whitespaces!
-##
-
-
-#### Build Source Settings: ####
+################################# Dependencies #################################
+##                                                                            ##
+## This Makefile relies on the following tools in order to function:          ##
+##     pandoc:         https://pandoc.org/installing.html                     ##
+##     rsync:     (Automatically comes with most distributions)               ##
+##                                                                            ##
+## Installed both using:                                                      ##
+##                        make install_all_dependencies                       ##
+##                                                                            ##
+################################### Template ###################################
+##                                                                            ##
+## The template/template.html file dictates the structure for all webpages.   ##
+##     $title$:            The title of each webpage;                         ##
+##                  Set in the title section of each md file                  ##
+##     $curdir$:  Orients path to be that of the template file                ##
+##     $body$:     The body of each page; written in Markdown                 ##
+##                                                                            ##
+## Any and all changes to the template.html file will require a full rebuild! ##
+##                                                                            ##
+################################### IMPORTANT ##################################
+##                                                                            ##
+## All file and folder names must contain no whitespaces!                     ##
+##                                                                            ##
+############################ Build Source Settings  ############################
 
 # Source path; markdown files location
 src_path := md/
 
+# Paths for all assets
+asset_paths := assets/ css/
+
 # The output build path
-build_path := html/
+build_path := website/
 
 # The template file to structure each web page
 template_file := template/template.html
 
-################################
-
-
-
-##### DO NOT TOUCH SECTION: ####
+############################# DO NOT TOUCH SECTION  ############################
 
 # Styles for output
 ANSI_DEFAULT := \033[0m
@@ -53,7 +52,13 @@ input_files := $(patsubst \
 output_files := $(patsubst %.md,%.html,$(input_files))
 
 # Phony rule
-.PHONY: create_build_path build rebuild clean
+.PHONY: install_all_dependencies \
+		copy_all_assets_to_build_directory \
+		create_build_directory \
+		list \
+		build \
+		rebuild \
+		clean
 
 # Pattern rule to convert .md to .html, placing each output file into its
 # corresponding subdirectory within the build directory
@@ -70,19 +75,32 @@ $(build_path)%.html : $(src_path)%.md
 	@echo "from $(dir $<)$(ANSI_BOLD)$(notdir $<)$(ANSI_DEFAULT)"
 
 # Basic build rule; will execute all components of the build procedure
-build: create_build_path $(patsubst %,$(build_path)%, $(output_files))
+build: create_build_directory \
+	   copy_all_assets_to_build_directory \
+	   $(patsubst %,$(build_path)%, \
+	   $(output_files))
 
 # Basic rebuild rule; will remove current build and start from scratch
 rebuild: clean build
 
 # Create the build directory by copying the directory structure of the source
 # directory
-create_build_path:
+create_build_directory:
 	@rsync -a --include '*/' --exclude '*' $(src_path). $(build_path)
+
+# Copy all specified asset directories to the build directory
+copy_all_assets_to_build_directory:
+	@cp $(asset_paths) -r $(build_path)
+	@echo "copied all assets to build directory"
 
 # Remove the build directory and all files and subdirectories contained within 
 clean:
 	@rm -rf $(build_path)
 	@echo "removed build directory and all contents within"
 
-################################
+# Install all the tools required to use this make file
+install_all_dependencies:
+	apt install pandoc
+	apt install rsync
+
+################################################################################

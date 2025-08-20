@@ -1,0 +1,364 @@
+:root {
+	/* Font Weight/Size/Family */
+	--ff: sans-serif;
+	--font-logo: bold 1.25rem/1.4em var(--ff);
+	--font-title: bold 1.25rem/2em var(--ff);
+	--font-bold: bold 1rem/1.4em var(--ff);
+	--font-base: 1rem/1.4em var(--ff);
+	--font-sub: 0.875rem/1.4em var(--ff);
+
+	/* Font Colors */
+	--color-font-title: hsl(240deg, 5%, 10%);
+	--color-font-bold: hsl(240deg, 5%, 10%);
+	--color-font-base: hsl(240deg, 5%, 10%);
+	--color-font-sub: hsl(240deg, 5%, 45%);
+
+	/* UML Colors */
+	--color-uml-dark-blue: #003c71;
+	--color-uml-blue: #0067b1;
+	--color-uml-dark-sky-blue: #00a3e0;
+	--color-uml-sky-blue: #8dc8e8;
+	--color-uml-gray: #97999b;
+
+	/* Miner School Colors */
+	--color-school-gold: #ffab40;
+
+	/* Element Colors */
+	--color-highlight: hsl(0deg, 0%, 100%);
+	--color-shadow: hsl(335deg, 5%, 25%);
+	--color-background: hsl(335deg, 5%, 92%);
+	--color-background-select: hsl(335deg, 5%, 80%, 0.85);
+
+	/* Page Settings */
+	--horizontal-margin: 50px;
+
+	/* Banner and Sidebar Sizes */
+	--banner-height: 60px;
+	--banner-margin: 20px;
+
+	/* Tables */
+	--table-cell-border: groove white 3px;
+}
+
+* {
+	font: var(--font-base);
+	color: var(--color-font-base);
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	color: var(--color-font-bold);
+	font: var(--font-bold);
+}
+
+body {
+	margin: 0;
+	margin-bottom: 40px;
+	padding-top: calc(var(--banner-height) + var(--banner-margin));
+
+	background-color: var(--color-background);
+}
+
+h1 {
+	margin: 0px;
+
+	color: var(--color-font-title);
+	font: var(--font-title);
+}
+
+h2 {
+	margin: 0px;
+
+	color: var(--color-font-bold);
+	font: var(--font-bold);
+}
+
+p {
+	margin: 0;
+}
+
+.small, .small * {
+	font: var(--font-sub);
+
+	&:not(a) {
+		color: var(--color-font-sub);
+	}
+}
+
+a {
+	color: var(--color-uml-dark-blue);
+	
+	&:hover {
+		color: var(--color-uml-blue);
+	}
+}
+
+ul {
+	padding: unset;
+	list-style-position: inside;
+	text-indent: -1em;
+	padding-left: 1em;
+
+	list-style-type: square;
+}
+
+ol {
+	padding: unset;
+	list-style-position: inside;
+}
+
+blockquote {
+	position: relative;
+	
+	box-sizing: border-box;
+	width: fit-content;
+
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+	
+	/* Round off corners */
+	border-radius: 24px;
+
+	/* Add shadow and highlights simulate depth */
+	box-shadow: 2px 2px 2px 0px var(--color-shadow),
+				-1px -1px 0px 0px var(--color-highlight);
+	/* Simulate light bleeding onto surface by adding a gradient */
+	background-image: linear-gradient(to bottom right, var(--color-highlight), transparent 20%);
+
+	/* Override horizontal rule to be normal */
+	& hr {
+		all: revert;
+	}
+}
+
+hr {
+	position: relative;
+
+	/*margin-left: var(--horizontal-margin);
+	margin-right: var(--horizontal-margin);*/
+	padding: 2.5px;
+
+	/* Remove natural border */
+	border: 0;
+
+	/* Round off corners */
+	border-radius: 24px;
+
+	/* Add shadow and highlights simulate depth */
+	box-shadow: 2px 2px 2px 0px var(--color-shadow),
+				-1px -1px 0px 0px var(--color-highlight);
+	/* Simulate light bleeding onto surface by adding a gradient */
+	background-image: linear-gradient(to bottom right, var(--color-highlight), transparent 20%);
+}
+
+#banner {
+	display: flex;
+	justify-content: space-between;
+	column-gap: 20px;
+
+	position: fixed;
+	top: 0;
+
+	width: 100%;
+	z-index: 1;
+
+	backdrop-filter: blur(50px);
+
+	/* Logo Side */
+	& #banner-left {
+		display: flex;
+		min-width: fit-content;
+
+		text-decoration: none;
+
+		& .uml-logo {
+			display: block;
+			height: var(--banner-height);
+			align-self: center;
+		}
+
+		& h1 {
+			align-self: center;
+			min-width: fit-content;
+			max-height: 100%;
+
+			font: var(--font-logo);
+			color: var(--color-school-gold);
+			user-select: none;
+		}
+	}
+
+	/* Student Resource Side */
+	& #banner-right {
+		display: flex;
+		justify-content: flex-end;
+
+		/* Darken background on hover */
+		& a:hover {
+			background-color: var(--color-background-select);
+		}
+
+		/* Icons */
+		& .student-resource-icon {
+			display: block;
+
+			/* Make each icon the same width */
+			min-width: 85px;
+			padding: 5px;
+
+			/* Center images and text */
+			align-content: center;
+			text-align: center;
+			text-decoration: none;
+
+			& img {
+				display: block;
+
+				/* Icons dimensions are equal and based off of initial banner height */
+				height: calc(var(--banner-height) * 0.5);
+				width: calc(var(--banner-height) * 0.5);
+
+				margin-left: auto;
+				margin-right: auto;
+				
+				/* Make icons circles */
+				border-radius: 50%;
+			}
+		}
+	}
+}
+
+/* Used to display blockquotes horizontally spaced. Any overflow will result in
+ * the line being scrollable. */
+.flex-line {
+	display: flex;
+	column-gap: 15px;
+	justify-content: space-between;
+
+	padding: 15px 0px;
+	/* The 5px padding is used to prevent the shadow from being clipped by the
+	 * edge of the div. */
+	padding-right: 5px;
+
+	/* Make the line scrollable if there is overflow */
+	overflow-x: scroll;
+
+	/* Any child blockquotes will be barred from shrinking but may grow up to
+	 * their limit. Margins will be reset to accommodate spacing. */
+	& blockquote {
+		flex-grow: 1;
+		flex-shrink: 0;
+		margin: unset;
+	}
+}
+
+/* Used to display blockquotes horizontally spaced. Any overflow will result in
+ * a new line being formed */
+.flex-grid {
+	display: flex;
+	gap: 15px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+	/* The 5px padding is used to prevent
+	 * the shadow from being clipped by the edge of the div. */
+	/*margin: 0 calc(var(--horizontal-margin) - 5px);*/
+	/*padding: 5px 5px;*/
+
+	/* Any child blockquotes will be barred from shrinking but may grow up to
+	 * their limit. Margins will be reset to accommodate spacing. */
+	& blockquote {
+		flex-grow: 1;
+		flex-shrink: 0;
+		margin: unset;
+		max-width: 49%;
+		min-width: 49%;
+	}
+}
+
+blockquote#disclaimer {
+	max-width: 100%;
+	width: 100%;
+
+	margin: 0px;
+	margin-bottom: 40px; 
+
+	background-color: var(--color-uml-sky-blue);
+
+	& li {
+		margin-bottom: 20px;
+	}
+}
+
+div#content {
+	margin: 0px 50px;
+}
+
+/* Placed at the bottom of each page - the copyright message */
+div#copyright-msg {
+	text-align: center;
+	margin-top: 40px;
+	/*margin: 20px var(--horizontal-margin);*/
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+
+	box-sizing: border-box;
+	width: 100%;
+	max-width: fit-content;
+
+	border-spacing: 0px;
+	border-collapse: collapse;
+	
+	/* Round off corners */
+	border-radius: 24px;
+
+	/* Add shadow and highlights simulate depth */
+	box-shadow: 2px 2px 2px 0px var(--color-shadow),
+				-1px -1px 0px 0px var(--color-highlight);
+	/* Simulate light bleeding onto surface by adding a gradient */
+	background-image: linear-gradient(to bottom right, var(--color-highlight), transparent 20%);
+
+	text-align: center;
+
+	& * {
+		padding: 10px;
+		background-color: transparent;
+	}
+
+	& th {
+		width: 50%;
+		min-width: 50%;
+
+		border-bottom: var(--table-cell-border);
+
+		font: var(--font-bold);
+		color: var(--color-font-bold);
+	}
+
+	& th:not(:first-child) {
+		border-left: var(--table-cell-border);
+	}
+
+	& tr:not(:last-child) td {
+
+		border-bottom: var(--table-cell-border);
+		
+		font: var(--font);
+		color: var(--color-font);
+	}
+	& td:not(:first-child) {
+		border-left: var(--table-cell-border);
+	}
+}
+
+.text-center {
+	text-align: center;
+}
