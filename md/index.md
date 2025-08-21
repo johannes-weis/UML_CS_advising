@@ -35,7 +35,6 @@ title: Advising Information for Computer Science at UMass Lowell
 > 	- [Cybersecurity](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-cybersecurity-2020.aspx){target="_blank"}
 > 	- [Data Science](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-data-science-2020.aspx){target="_blank"}
 > - Dual Majors
-
 >	- [CS/ECE (Electrical & Computer Engineering)](https://www.uml.edu/catalog/undergraduate/engineering/departments/electrical-computer-engineering/degree-pathways/dp-ee-cs-2017.aspx){target="_blank"}
 >	- [CS/Mathematics](https://www.uml.edu/catalog/undergraduate/sciences/departments/mathematical-sciences/degree-pathways/dp-math-computer-science-2015.aspx){target="_blank"}
 > - Minors
