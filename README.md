@@ -6,7 +6,7 @@ This website is intended as a guide for Computer Science students at UMass Lowel
 
 ## Build Instructions
 
-This website is written primarily in Markdown in order to maintain readability of code. It is for this reason that all webpages are required to be "built" using the Makefile located in the main directory. Any changes in the `md/` directory only require a `make build` while changes to any assets, stylesheets, or template files **require** a `make rebuild`. The `html/` directory is the output location for the Makefile.
+This website is written primarily in Markdown in order to maintain readability of code. It is for this reason that all webpages are required to be "built" using the Makefile located in the main directory. Any changes in the `md/` directory only require a `make build` while changes to any assets, stylesheets, or template files **require** a `make rebuild`. The `website/` directory is the output location for the Makefile.
 
 ## External Tools
 
