@@ -17,7 +17,7 @@ title: Advising Information for Computer Science at UMass Lowell
 > ## Computer Science Undergraduate Information
 > [An overview]{.small}
 >
-> - [Miner School of Computer and Information Sciences](https://www.uml.edu/sciences/computer-science/){target="_blank"}
+> - [Miner School of Computer and Information Sciences](https://www..edu/sciences/computer-science/){target="_blank"}
 > - [Undergraduate Curriculum Overview](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-general-2020.aspx){target="_blank"}
 > 	- [Course Grid (PDF)](../assets/PDF/Canning-UGrad-Grid2020-Form-fillable.pdf){target="_blank"}
 >	- [Course Prerequisite Flowchart (PDF)](../assets/PDF/CSPrerequisiteChart_2020.pdf){target="_blank"}
@@ -35,6 +35,7 @@ title: Advising Information for Computer Science at UMass Lowell
 > 	- [Cybersecurity](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-cybersecurity-2020.aspx){target="_blank"}
 > 	- [Data Science](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-data-science-2020.aspx){target="_blank"}
 > - Dual Majors
+
 >	- [CS/ECE (Electrical & Computer Engineering)](https://www.uml.edu/catalog/undergraduate/engineering/departments/electrical-computer-engineering/degree-pathways/dp-ee-cs-2017.aspx){target="_blank"}
 >	- [CS/Mathematics](https://www.uml.edu/catalog/undergraduate/sciences/departments/mathematical-sciences/degree-pathways/dp-math-computer-science-2015.aspx){target="_blank"}
 > - Minors

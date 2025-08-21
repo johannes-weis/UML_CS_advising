@@ -68,7 +68,12 @@ $(build_path)%.html : $(src_path)%.md
 	@pandoc --from markdown+smart \
 			--to html5 \
 			--template $(template_file) \
+			--variable=localdir:$(shell echo "$(dir $@)" \
+			| sed 's:$(build_path):./:' \
+			| sed 's:/\w*:\/..:g' \
+			| sed 's:\/..$$::') \
 			$< -o $@
+# The variable flag is set, using regex to convert absolute path to local path
 
 # Output a message to let the user know which documents have been updated
 	@echo -n "created $(dir $@)$(ANSI_BOLD)$(notdir $@)$(ANSI_DEFAULT) "
