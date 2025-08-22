@@ -109,7 +109,7 @@ clean:
 # Officially "deploy" the website by archiving the website directory into a zip
 # file which can be retrieved by the hosting server
 deploy:
-	@zip $(deploy_name) -r $(build_path) -q
+	@(cd $(build_path) && zip -r -q ../$(deploy_name) *)
 	@echo "created $(ANSI_BOLD)$(deploy_name)$(ANSI_DEFAULT) from $(build_path)"
 
 # Install all the tools required to use this make file
