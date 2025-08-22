@@ -35,6 +35,9 @@ build_path := website/
 # The template file to structure each web page
 template_file := template/template.html
 
+# The deployment zip file name
+deploy_name := website.zip
+
 ############################# DO NOT TOUCH SECTION  ############################
 
 # Styles for output
@@ -102,6 +105,12 @@ copy_all_assets_to_build_directory:
 clean:
 	@rm -rf $(build_path)
 	@echo "removed build directory and all contents within"
+
+# Officially "deploy" the website by archiving the website directory into a zip
+# file which can be retrieved by the hosting server
+deploy:
+	@zip $(deploy_name) -r $(build_path) -q
+	@echo "created $(ANSI_BOLD)$(deploy_name)$(ANSI_DEFAULT) from $(build_path)"
 
 # Install all the tools required to use this make file
 install_all_dependencies:
