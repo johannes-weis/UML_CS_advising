@@ -32,7 +32,7 @@ html {
 		/* Icons */
 		& .student-resource-icon {
 			/* Make each icon the same width */
-			min-width: 85px;
+			min-width: 170px;
 			& img {
 				/* Icons dimensions are equal and based off of initial banner height */
 				height: calc(var(--banner-height) * 0.5);
