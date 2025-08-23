@@ -18,17 +18,13 @@ html {
 
 	/* Logo Side */
 	& #banner-left {
-		& .uml-logo {
-			height: var(--banner-height);
-		}
-
-		& h1 {
-			font: var(--font-logo);
-		}
+		display: none;
 	}
 
 	/* Student Resource Side */
 	& #banner-right {
+		justify-content: center;
+
 		/* Icons */
 		& .student-resource-icon {
 			/* Make each icon the same width */
