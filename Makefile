@@ -106,13 +106,6 @@ clean:
 	@rm -rf $(build_path)
 	@echo "removed build directory and all contents within"
 
-# Officially "deploy" the website by archiving the website directory into a zip
-# file which can be retrieved by the hosting server
-deploy:
-	@rm -f $(deploy_name)
-	@(cd $(build_path) && zip -r -q ../$(deploy_name) *)
-	@echo "created $(ANSI_BOLD)$(deploy_name)$(ANSI_DEFAULT) from $(build_path)"
-
 # Install all the tools required to use this make file
 install_all_dependencies:
 	apt install pandoc
