@@ -61,7 +61,8 @@ output_files := $(patsubst %.md,%.html,$(input_files))
 		list \
 		build \
 		rebuild \
-		clean
+		clean \
+		list
 
 # Pattern rule to convert .md to .html, placing each output file into its
 # corresponding subdirectory within the build directory
@@ -106,9 +107,47 @@ clean:
 	@rm -rf $(build_path)
 	@echo "removed build directory and all contents within"
 
-# Install all the tools required to use this make file
+# Install all the tools required to use this Makefile
 install_all_dependencies:
 	apt install pandoc
 	apt install rsync
+
+# List all available options with the Makefile
+list:
+	@echo "\
+$(ANSI_BOLD)build$(ANSI_DEFAULT)\
+:\n\t\
+build any out-of-date markdown files into their corresponding html pages"
+
+	@echo "\
+$(ANSI_BOLD)rebuild$(ANSI_DEFAULT)\
+:\n\t\
+rebuild every file of the entire website"
+
+	@echo "\
+$(ANSI_BOLD)create_build_directory$(ANSI_DEFAULT)\
+:\n\t\
+create the build directory, copying the file structure of the md directory"
+
+	@echo "\
+$(ANSI_BOLD)copy_all_assets_to_build_directory$(ANSI_DEFAULT)\
+:\n\t\
+copy all specified asset directories to the build directory"
+
+	@echo "\
+$(ANSI_BOLD)clean$(ANSI_DEFAULT)\
+:\n\t\
+remove the build directory and all files and subdirectories contained within"
+
+	@echo "\
+$(ANSI_BOLD)install_all_dependencies$(ANSI_DEFAULT)\
+:\n\t\
+install all the tools required to use the current Makefile"
+
+	@echo "\
+$(ANSI_BOLD)list$(ANSI_DEFAULT)\
+:\n\t\
+List all options available with the current Makefile"
+
 
 ################################################################################
