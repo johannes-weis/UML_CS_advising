@@ -1,11 +1,11 @@
 :root {
 	/* Font Weight/Size/Family */
 	--ff: sans-serif;
-	--font-logo: bold 2.387vh/1.4em var(--ff);
-	--font-title: bold 2.387vh/2em var(--ff);
-	--font-bold: bold 1.909vh/1.4em var(--ff);
-	--font-base: 1.909vh/1.4em var(--ff);
-	--font-sub: 1.671vh/1.4em var(--ff);
+	--font-logo: bold 1.25rem/1.4em var(--ff);
+	--font-title: bold 1.25rem/2em var(--ff);
+	--font-bold: bold 1rem/1.4em var(--ff);
+	--font-base: 1rem/1.4em var(--ff);
+	--font-sub: 0.875rem/1.4em var(--ff);
 
 	/* Font Colors */
 	--color-font-title: hsl(240deg, 5%, 10%);
@@ -33,7 +33,7 @@
 	--horizontal-margin: 50px;
 
 	/* Banner and Sidebar Sizes */
-	--banner-height: 7.16vh;
+	--banner-height: 60px;
 	--banner-margin: 20px;
 
 	/* Tables */
