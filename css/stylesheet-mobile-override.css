@@ -1,5 +1,14 @@
+:root {
+	/* Font Weight/Size/Family */
+	--ff: sans-serif;
+	--font-logo: bold 1.0rem/1.4em var(--ff);
+
+	/* Banner and Sidebar Sizes */
+	--banner-height: 120px;
+	--banner-margin: 40px;
+}
+
 html {
-	/*font-size: 150%;*/
 	font-size: 1.25vh;
 }
 
