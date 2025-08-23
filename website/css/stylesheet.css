@@ -41,7 +41,10 @@
 }
 
 html {
+	/* Allows for easy unit conversion with rem units */
 	font-size: 62.5%;
+
+	/* Prevent font scaling algorithm on mobile */
 	text-size-adjust: none;
 	-webkit-text-size-adjust: none; 
 	-moz-text-size-adjust: none;
