@@ -16,8 +16,8 @@ body {
 	margin-bottom: calc(var(--banner-height) + var(--banner-margin));
 }
 
-a {
-	line-height: 2.5em;
+blockquote a {
+	line-height: 4.5em;
 }
 
 #banner {
