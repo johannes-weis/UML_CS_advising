@@ -17,11 +17,15 @@ html {
 	flex-wrap: wrap;
 	min-height: 100%;
 
+
+	backdrop-filter: none;
+
 	& #banner-left {
 		/*display: none;*/
 		align-self: flex-start;
 		min-width: 100%;
 		max-height: fit-content;
+		backdrop-filter: blur(50px);
 	}
 
 	& #banner-right {
@@ -29,6 +33,7 @@ html {
 		justify-content: space-between;
 
 		min-width: 100%;
+		backdrop-filter: blur(50px);
 
 		& .student-resource-icon {
 			flex-grow: 1;
