@@ -12,6 +12,14 @@ html {
 	font-size: 1.25vh;
 }
 
+body {
+	margin-bottom: calc(var(--banner-height) + var(--banner-margin));
+}
+
+a {
+	line-height: 2.5em;
+}
+
 #banner {
 	justify-content: center;
 	flex-wrap: wrap;
