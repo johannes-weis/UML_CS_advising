@@ -37,7 +37,8 @@
 	--color-highlight: hsl(0deg, 0%, 100%);
 	--color-shadow: hsl(335deg, 5%, 25%);
 	--color-background: hsl(335deg, 5%, 92%);
-	--color-background-select: hsl(335deg, 5%, 80%, 0.85);
+	/*--color-background-select: hsl(335deg, 5%, 80%, 0.85);*/
+	--color-background-select: hsl(0deg, 0%, 50%, 0.125);
 
 	/* Page Settings */
 	--horizontal-margin: 50px;
