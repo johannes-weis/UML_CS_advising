@@ -191,6 +191,13 @@ hr {
 
 	backdrop-filter: blur(50px);
 
+	/* Allow for passing through of clicks when the banner takes up the full
+	 * screen on mobile override */
+	pointer-events: none; 
+	& * {
+		pointer-events: auto; 
+	}
+
 	/* Logo Side */
 	& #banner-left {
 		display: flex;
