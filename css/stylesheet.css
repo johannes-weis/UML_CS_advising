@@ -188,7 +188,7 @@ hr {
 	width: 100%;
 	z-index: 1;
 
-	backdrop-filter: blur(50px);
+	/*backdrop-filter: blur(50px);*/
 
 	/* Logo Side */
 	& #banner-left {
@@ -196,6 +196,7 @@ hr {
 		min-width: fit-content;
 
 		text-decoration: none;
+		backdrop-filter: blur(50px);
 
 		& .uml-logo {
 			display: block;
@@ -218,6 +219,8 @@ hr {
 	& #banner-right {
 		display: flex;
 		justify-content: flex-end;
+
+		backdrop-filter: blur(50px);
 
 		/* Darken background on hover */
 		& a:hover {

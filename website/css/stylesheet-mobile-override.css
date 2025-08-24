@@ -1,7 +1,7 @@
 :root {
 	/* Font Weight/Size/Family */
 	--ff: sans-serif;
-	--font-logo: bold 1.0rem/1.4em var(--ff);
+	--font-logo: bold 2.0rem/1.4em var(--ff);
 
 	/* Banner and Sidebar Sizes */
 	--banner-height: 120px;
@@ -14,16 +14,24 @@ html {
 
 #banner {
 	justify-content: center;
+	flex-wrap: wrap;
+	min-height: 100%;
 
 	& #banner-left {
-		display: none;
+		/*display: none;*/
+		align-self: flex-start;
+		min-width: 100%;
+		max-height: fit-content;
 	}
 
 	& #banner-right {
-		justify-content: center;
+		align-self: flex-end;
+		justify-content: space-between;
+
+		min-width: 100%;
 
 		& .student-resource-icon {
-			min-width: 170px;
+			flex-grow: 1;
 		}
 	}
 }
