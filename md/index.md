@@ -16,10 +16,10 @@ title: Advising Information for Computer Science at UMass Lowell
 <!-- 3 -->
 > ## Computer Science Undergraduate Information
 >
-> - [Miner School of Computer and Information Sciences](https://www..edu/sciences/computer-science/){target="_blank"}
+> - [Miner School of Computer and Information Sciences](https://www.uml.edu/sciences/computer-science/){target="_blank"}
 > - [Undergraduate Curriculum Overview](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-general-2020.aspx){target="_blank"}
 > 	- [Course Grid (PDF)](./assets/PDF/Canning-UGrad-Grid2020-Form-fillable.pdf){target="_blank"}
->	- [Course Prerequisite Flowchart (PDF)](../assets/PDF/CSPrerequisiteChart_2020.pdf){target="_blank"}
+>	- [Course Prerequisite Flowchart (PDF)](./assets/PDF/CSPrerequisiteChart_2020.pdf){target="_blank"}
 > - [Course Catalog](https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx){target="_blank"}
 > 	- [GenEd (General Education) Requirements](https://www.uml.edu/academics/undergraduate-programs/core-curriculum/bok.aspx){target="_blank"}
 >
