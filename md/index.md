@@ -107,7 +107,7 @@ title: Advising Information for Computer Science at UMass Lowell
 <!-- 7 -->
 > ## Graduating From UMass Lowell
 >
-> - [Declaration of Intent to Graduate (DIG) Form \- CS](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2FpwK2sQVPFu&data=05%7C01%7CJohannes_Weis%40uml.edu%7C44e6bfbed9234b1cd97808dbbb9b188c%7C4c25b8a617f746f983f054734ab81fb1%7C0%7C0%7C638310047091337094%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=56EN%2BuDvr2v6757O3ej8AwOE3zlA6HI5jq3aInSeKFU%3D&reserved=0){target="_blank"}
+> - [Declaration of Intent to Graduate (DIG) Form \- CS](https://forms.cloud.microsoft/r/jXFVYJVsnA){target="_blank"}
 > 	- [DIG Form Information](https://www.uml.edu/thesolutioncenter/academics/degree-program/graduate.aspx){target="_blank"}
 > - [Academic Standing](https://www.uml.edu/Catalog/Undergraduate/Policies/Academic-Policies/Academic-Standing.aspx){target="_blank"}
 > - [Academic Honors:](https://www.uml.edu/Catalog/Undergraduate/Policies/Academic-Policies/Academic-Honors.aspx){target="_blank"} Cum Laude, Magna Cum Laude, and Summa Cum Laude distinctions
