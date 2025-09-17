@@ -101,7 +101,8 @@ title: Advising Information for Computer Science at UMass Lowell
 > ## UMass Lowell Honors Program
 >
 > - [Home](http://www.uml.edu/honors){target="_blank"}
-> - [CS Honors Thesis Guide](http://www.cs.swarthmore.edu/%7Enewhall/thesis_guide.html){target="_blank"}
+<!-- This also appears in CS Graduate Programs Section -->
+<!-- > - [CS Honors Thesis Guide](http://www.cs.swarthmore.edu/%7Enewhall/thesis_guide.html){target="_blank"} -->
 >
 
 <!-- 7 -->
