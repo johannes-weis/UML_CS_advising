@@ -131,6 +131,7 @@ title: Advising Information for Computer Science at UMass Lowell
 > - [Home](https://www.uml.edu/grad/){target="_blank"}
 > - [Program Options](https://www.uml.edu/Sciences/computer-science/Programs/){target="_blank"}
 > - [Graduate Coordinators](https://www.uml.edu/graduate-student-services/coordinators.aspx){target="_blank"}
+> - [CIS Graduate Program Website](https://www.cs.uml.edu/~gcoord/){target="_blank"}
 > - Resources for Writing Your Thesis 
 > 	- [Graduate School Thesis & Dissertation Guide](https://www.uml.edu/catalog/graduate/policies/dissertation-thesis/){target="_blank"}
 > 	- [Dissertation & Thesis Format](https://www.uml.edu/catalog/graduate/policies/dissertation-thesis/format.aspx){target="_blank"}
