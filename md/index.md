@@ -11,6 +11,15 @@ Incorrect links:
 title: Advising Information for Computer Science at UMass Lowell
 ---
 
+::: {#faq}
+
+> # Advising FAQ
+>
+> [Frequently asked questions related to the Computer Science program at UMass Lowell.](./faq/index.html){target="_blank"}
+>
+
+:::
+
 ::: {.flex-grid}
 
 <!-- 3 -->

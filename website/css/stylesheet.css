@@ -1,13 +1,3 @@
-/**
- * TODO:
- * 
- * Make coloring of selected icons not solid
- * 
- * Redesign the structure of the top bar in order to work better on mobile
- * 
- * Document mobile override sheet
- */
-
 :root {
 	/* Font Weight/Size/Family */
 	--ff: sans-serif;
@@ -296,11 +286,6 @@ hr {
 	justify-content: space-between;
 	flex-wrap: wrap;
 
-	/* The 5px padding is used to prevent
-	 * the shadow from being clipped by the edge of the div. */
-	/*margin: 0 calc(var(--horizontal-margin) - 5px);*/
-	/*padding: 5px 5px;*/
-
 	/* Any child blockquotes will be barred from shrinking but may grow up to
 	 * their limit. Margins will be reset to accommodate spacing. */
 	& blockquote {
@@ -308,6 +293,23 @@ hr {
 		flex-shrink: 0;
 		margin: unset;
 		max-width: 49%;
+		min-width: 49%;
+	}
+}
+
+.flex-rows {
+	display: flex;
+	gap: 15px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+	/* Any child blockquotes will be barred from shrinking but may grow up to
+	 * their limit. Margins will be reset to accommodate spacing. */
+	& blockquote {
+		flex-grow: 1;
+		flex-shrink: 0;
+		margin: unset;
+		max-width: 100%;
 		min-width: 49%;
 	}
 }
@@ -324,6 +326,16 @@ blockquote#disclaimer {
 	& li {
 		margin-bottom: 20px;
 	}
+}
+
+#faq blockquote {
+	max-width: 100%;
+	width: 100%;
+
+	margin: 0px;
+	margin-bottom: 40px; 
+
+	background-color: var(--color-school-gold);
 }
 
 div#content {
