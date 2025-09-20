@@ -16,7 +16,8 @@ This FAQ is a collection of information about the CS curriculum to help answer a
 > ## Natural Science Electives
 > 
 > - There is a list of [accepted Natural Science and Lab options](../../assets/PDF/CSNaturalScienceElectives.pdf){target="_blank"} available to CS students. If you take 3 Natural Science and labs you can only take a maximum of 2 from the same department. 
-> - [BIOL.1110](https://www.uml.edu/catalog/courses/BIOL/1110){target="_blank"} (Principles of Biology I (Formerly 81.111)) and [LIFE.1010](https://www.uml.edu/catalog/courses/LIFE/1010){target="_blank"} (Life Science I (Formerly 83.101)) are Anti-Requirement.  You can take one but not both as credit.
+> - [BIOL.1110](https://www.uml.edu/catalog/courses/BIOL/1110){target="_blank"} (Principles of Biology I (Formerly 81.111)) and [LIFE.1010](https://www.uml.edu/catalog/courses/LIFE/1010){target="_blank"} (Life Science I (Formerly 83.101)) are **Anti-Requirement**.  You can take one but not both as credit.
+> - [ENVI.2020](https://www.uml.edu/catalog/courses/ENVI/2020){target="_blank"} (Earth Systems: Atmosphere and Oceans (Formerly 87.202)) and [ATMO.1410](https://www.uml.edu/catalog/courses/ATMO/1410){target="_blank"} (ATMO.1410 Weather and Climate (Formerly 85.141)) are **Anti-Requirement**.  You can take one but not both as credit.
 > 
 
 > ## General Questions about Electives
