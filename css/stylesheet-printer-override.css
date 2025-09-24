@@ -1,0 +1,76 @@
+body {
+	background-color: transparent;
+}
+
+#banner {
+	all: unset;
+	position: absolute;
+	top: 0;
+
+	& #banner-right {
+		display: none;
+	}
+}
+
+blockquote#disclaimer {
+	all: unset;
+}
+
+/* Remove the grid pattern if the page is in portrait mode */
+.flex-grid {
+	margin-top: 20px;
+	gap: 30px;
+
+	& blockquote {
+		all: unset;
+		max-width: 100%;
+		width: 100%;
+	}
+}
+
+/* If the page is in landscape allow the grid pattern to work */
+@media (orientation: landscape) {	
+	.flex-grid {
+		& blockquote {
+			flex-grow: 1;
+			flex-shrink: 0;
+			margin: unset;
+			padding: unset;
+			max-width: 45%;
+			min-width: 45%;
+		}
+	}
+}
+
+a {
+	text-decoration: underline;
+}
+
+blockquote {
+	all: initial;
+}
+
+hr {
+	all: initial;
+	display: block;
+	padding: 2.5px;
+	border-bottom: 2px solid var(--color-font-sub);
+}
+
+h1:not(#banner *) {
+	border-bottom: 4px solid black;
+	padding: unset;
+	margin-bottom: 10px;
+}
+
+h2:not(#banner *) {
+	border-bottom: 4px solid black;
+	width: fit-content;
+}
+
+table {
+	all: revert;
+	& * {
+		all: revert;
+	}
+}
