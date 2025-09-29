@@ -71,7 +71,8 @@ title: Advising Information for Computer Science at UMass Lowell
 > 	- [Computer Science Electives](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-general-2020.aspx){target="_blank"}
 > 	- [Technical Electives](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-general-2020.aspx){target="_blank"}
 > <!--  -->
-> 	- [Natural Science Electives (PDF)](./assets/PDF/CSNaturalScienceElectives.pdf){target="_blank"}
+> 	- [Natural Science Electives](./natural_sciences/index.html){target="_blank"}
+<!-- > 	- [Natural Science Electives (PDF)](./assets/PDF/CSNaturalScienceElectives.pdf){target="_blank"} -->
 > 	- [Arts and Humanities (AH) General Education](https://www.uml.edu/Catalog/Undergraduate/Core-Curriculum/BOK.aspx#:~:text=carry%20this%20perspective.-,AH,-%2D%20The%20Arts%20and){target="_blank"}
 > 	- [Social Sciences (SS) General Education](https://www.uml.edu/Catalog/Undergraduate/Core-Curriculum/BOK.aspx#:~:text=they%20will%20take.-,SS,-%2D%20The%20Social%20Sciences){target="_blank"}
 > 	- Gen Ed Requirements
