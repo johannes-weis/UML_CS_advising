@@ -49,6 +49,7 @@ The courses in these departments that fulfill the CS natural science elective re
 > - CHEM.1220 and CHEM.1240 Chemistry II (lecture & lab) - Spring offering
 >
 > **Note:** The following Chemistry courses **do not satisfy** the natural science requirement:
+>
 > - CHEM.1010 Applied Chemistry for Non-Scientists (GenEd) 
 > - CHEM.1020 Forensic Science for the Non-Scientist (GenEd) 
 >
@@ -65,6 +66,7 @@ The courses in these departments that fulfill the CS natural science elective re
 > - ENVI.2020 Earth Systems: Atmosphere and Oceans, or ATMO.1410 Weather & Climate + ATMO.1430L Weather & Climate Lab (but not both, as they are Anti-reqs)
 >
 > **Note:** The following Environmental, Earth, and Atmospheric Sciences courses **do not satisfy** the natural science requirement:
+>
 > - ATMO.1200 The Nature of Science (GenEd)
 > - ENVI.1040 and ENVI.1050 Conservation & Environmental Concerns (lecture & lab, GenEd)
 > - ENVI.1150 and ENVI.1170 Astronomy (lecture & lab, GenEd)
@@ -78,6 +80,7 @@ The courses in these departments that fulfill the CS natural science elective re
 > - PHYS.1210 and 96.1210L Exploring the Universe (lecture & lab)
 >
 > **Note:** The following Physics courses **do not satisfy** the natural Science requirement:
+>
 > - PHYS.1010 and 96.1010L Introductory Physics I (lecture & lab, GenEd)
 > - PHYS.1030 and 96.1030L General Physics I (lecture & lab)
 > - PHYS.1040 and 96.1040L General Physics II (lecture & lab, GenEd)
