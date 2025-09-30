@@ -30,9 +30,12 @@ Because this is an advising site for a university, there are many references to
 available courses. While writing Markdown, the developer can simply write a
 university course as `\SUBJ.xxxx` and the python script will automatically
 convert the text into a hyperlink, pointing back to the course as it is listed
-on the official university catalog. For example `\COMP.1010` will be converted
-to `[COMP.1010](https://www.uml.edu/catalog/courses/COMP/1010)
-{target="_blank"}`.
+on the official university catalog. For example: 
+```
+=>    \COMP.1010
+
+=>    [COMP.1010](https://www.uml.edu/catalog/courses/COMP/1010) {target="_blank"}
+```
 
 ## External Tools
 
