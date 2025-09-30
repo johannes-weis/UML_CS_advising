@@ -33,57 +33,57 @@ The courses in these departments that fulfill the CS natural science elective re
 
 > ## Biological Sciences
 >
-> - BIOL.1110 Principles of Biology I (lecture) and BIOL.1170L Experimental Biology I (lab) - Fall offering
-> - BIOL.1102 Principles of Biology II (lecture) and BIOL.1180L Experimental Biology II (lab) - Spring offering
-> - LIFE.1010 and LIFE.1030L Life Sciences I (lecture & lab)
-> - LIFE.1020 and LIFE.1040L Life Sciences II (lecture & lab)
+> - [BIOL.1110](https://www.uml.edu/catalog/courses/BIOL/1110){target="_blank"} Principles of Biology I (lecture) and [BIOL.1170L](https://www.uml.edu/catalog/courses/BIOL/1170L){target="_blank"} Experimental Biology I (lab) - Fall offering
+> - [BIOL.1102](https://www.uml.edu/catalog/courses/BIOL/1102){target="_blank"} Principles of Biology II (lecture) and [BIOL.1180L](https://www.uml.edu/catalog/courses/BIOL/1180L){target="_blank"} Experimental Biology II (lab) - Spring offering
+> - [LIFE.1010](https://www.uml.edu/catalog/courses/LIFE/1010){target="_blank"} and [LIFE.1030L](https://www.uml.edu/catalog/courses/LIFE/1030L){target="_blank"} Life Sciences I (lecture & lab)
+> - [LIFE.1020](https://www.uml.edu/catalog/courses/LIFE/1020){target="_blank"} and [LIFE.1040L](https://www.uml.edu/catalog/courses/LIFE/1040L){target="_blank"} Life Sciences II (lecture & lab)
 >
-> **Note:** BIOL.1110 and BIOL.1120 Principles of Biology I and II are required for Biology majors and should be taken by students with a serious interest in Biology. Otherwise, students should take Life Sciences I and II. No students should take both the Principles of Biology and Life Sciences courses.
+> **Note:** [BIOL.1110](https://www.uml.edu/catalog/courses/BIOL/1110){target="_blank"} and [BIOL.1120](https://www.uml.edu/catalog/courses/BIOL/1120){target="_blank"} Principles of Biology I and II are required for Biology majors and should be taken by students with a serious interest in Biology. Otherwise, students should take Life Sciences I and II. No students should take both the Principles of Biology and Life Sciences courses.
 >
 > <br>[Additionally, most higher level courses numbered BIOL.xxxx also satisfy this requirement. Please see the [Undergraduate Coordinator](mailto:ugcoord@uml.edu){target="_blank"} before taking a course to confirm that it will count as a natural science elective.]{.small}
 >
 
 > ## Chemistry
 >
-> - CHEM.1210 and CHEM.1230 Chemistry I (lecture & lab) - Fall offering
-> - CHEM.1220 and CHEM.1240 Chemistry II (lecture & lab) - Spring offering
+> - [CHEM.1210](https://www.uml.edu/catalog/courses/CHEM/1210){target="_blank"} and [CHEM.1230](https://www.uml.edu/catalog/courses/CHEM/1230){target="_blank"} Chemistry I (lecture & lab) - Fall offering
+> - [CHEM.1220](https://www.uml.edu/catalog/courses/CHEM/1220){target="_blank"} and [CHEM.1240](https://www.uml.edu/catalog/courses/CHEM/1240){target="_blank"} Chemistry II (lecture & lab) - Spring offering
 >
 > **Note:** The following Chemistry courses **do not satisfy** the natural science requirement:
 >
-> - CHEM.1010 Applied Chemistry for Non-Scientists (GenEd) 
-> - CHEM.1020 Forensic Science for the Non-Scientist (GenEd) 
+> - [CHEM.1010](https://www.uml.edu/catalog/courses/CHEM/1010){target="_blank"} Applied Chemistry for Non-Scientists (GenEd) 
+> - [CHEM.1020](https://www.uml.edu/catalog/courses/CHEM/1020){target="_blank"} Forensic Science for the Non-Scientist (GenEd) 
 >
 > <br>[Additionally, most higher level courses numbered CHEM.xxxx also satisfy this requirement. Please see the [Undergraduate Coordinator](mailto:ugcoord@uml.edu){target="_blank"} before taking a course to confirm that it will count as a natural science elective.]{.small}
 >
 
 > ## Environmental, Earth, and Atmospheric Sciences
 >
-> - ENVI.2010 Earth Systems: Geosphere + ENVI.2030L Earth Systems: Geosphere Laboratory
-> - ENVI 2020 Earth Systems: Atmosphere and Oceans + ENVI.2040L Earth Systems: Atmosphere and Oceans Laboratory
-> - GEOL.2150 Forensic Geology (listed as a GenEd, but does satisfy the natural science requirement)
-> - GEOL.3140 Hydrogeology - Spring offering
-> - GEOL.3150 Environmental Geochemistry (4 credits) - Fall offering
-> - ENVI.2020 Earth Systems: Atmosphere and Oceans, or ATMO.1410 Weather & Climate + ATMO.1430L Weather & Climate Lab (but not both, as they are Anti-reqs)
+> - [ENVI.2010](https://www.uml.edu/catalog/courses/ENVI/2010){target="_blank"} Earth Systems: Geosphere + [ENVI.2030L](https://www.uml.edu/catalog/courses/ENVI/2030L){target="_blank"} Earth Systems: Geosphere Laboratory
+> - [ENVI.2020](https://www.uml.edu/catalog/courses/ENVI/2020){target="_blank"} Earth Systems: Atmosphere and Oceans + [ENVI.2040L](https://www.uml.edu/catalog/courses/ENVI/2040L){target="_blank"} Earth Systems: Atmosphere and Oceans Laboratory
+> - [GEOL.2150](https://www.uml.edu/catalog/courses/GEOL/2150){target="_blank"} Forensic Geology (listed as a GenEd, but does satisfy the natural science requirement)
+> - [GEOL.3140](https://www.uml.edu/catalog/courses/GEOL/3140){target="_blank"} Hydrogeology - Spring offering
+> - [GEOL.3150](https://www.uml.edu/catalog/courses/GEOL/3150){target="_blank"} Environmental Geochemistry (4 credits) - Fall offering
+> - [ENVI.2020](https://www.uml.edu/catalog/courses/ENVI/2020){target="_blank"} Earth Systems: Atmosphere and Oceans, or [ATMO.1410](https://www.uml.edu/catalog/courses/ATMO/1410){target="_blank"} Weather & Climate + [ATMO.1430L](https://www.uml.edu/catalog/courses/ATMO/1430L){target="_blank"} Weather & Climate Lab (but not both, as they are Anti-reqs)
 >
 > **Note:** The following Environmental, Earth, and Atmospheric Sciences courses **do not satisfy** the natural science requirement:
 >
-> - ATMO.1200 The Nature of Science (GenEd)
-> - ENVI.1040 and ENVI.1050 Conservation & Environmental Concerns (lecture & lab, GenEd)
-> - ENVI.1150 and ENVI.1170 Astronomy (lecture & lab, GenEd)
-> - GEOL.1010 and GEOL.1030 General Geology (lecture & lab, GenEd)
+> - [ATMO.1200](https://www.uml.edu/catalog/courses/ATMO/1200){target="_blank"} The Nature of Science (GenEd)
+> - [ENVI.1040](https://www.uml.edu/catalog/courses/ENVI/1040){target="_blank"} and [ENVI.1050](https://www.uml.edu/catalog/courses/ENVI/1050){target="_blank"} Conservation & Environmental Concerns (lecture & lab, GenEd)
+> - [ENVI.1150](https://www.uml.edu/catalog/courses/ENVI/1150){target="_blank"} and [ENVI.1170](https://www.uml.edu/catalog/courses/ENVI/1170){target="_blank"} Astronomy (lecture & lab, GenEd)
+> - [GEOL.1010](https://www.uml.edu/catalog/courses/GEOL/1010){target="_blank"} and [GEOL.1030](https://www.uml.edu/catalog/courses/GEOL/1030){target="_blank"} General Geology (lecture & lab, GenEd)
 >
 
 > ## Physics
 >
-> - PHYS.1410 and PHYS.1410L Physics I (lecture & lab)
-> - PHYS.1440 and PHYS.1440L Physics II (lecture & lab)
-> - PHYS.1210 and 96.1210L Exploring the Universe (lecture & lab)
+> - [PHYS.1410](https://www.uml.edu/catalog/courses/PHYS/1410){target="_blank"} and [PHYS.1410L](https://www.uml.edu/catalog/courses/PHYS/1410L){target="_blank"} Physics I (lecture & lab)
+> - [PHYS.1440](https://www.uml.edu/catalog/courses/PHYS/1440){target="_blank"} and [PHYS.1440L](https://www.uml.edu/catalog/courses/PHYS/1440L){target="_blank"} Physics II (lecture & lab)
+> - [PHYS.1210](https://www.uml.edu/catalog/courses/PHYS/1210){target="_blank"} and 96.1210L Exploring the Universe (lecture & lab)
 >
 > **Note:** The following Physics courses **do not satisfy** the natural Science requirement:
 >
-> - PHYS.1010 and 96.1010L Introductory Physics I (lecture & lab, GenEd)
-> - PHYS.1030 and 96.1030L General Physics I (lecture & lab)
-> - PHYS.1040 and 96.1040L General Physics II (lecture & lab, GenEd)
+> - [PHYS.1010](https://www.uml.edu/catalog/courses/PHYS/1010){target="_blank"} and 96.1010L Introductory Physics I (lecture & lab, GenEd)
+> - [PHYS.1030](https://www.uml.edu/catalog/courses/PHYS/1030){target="_blank"} and 96.1030L General Physics I (lecture & lab)
+> - [PHYS.1040](https://www.uml.edu/catalog/courses/PHYS/1040){target="_blank"} and 96.1040L General Physics II (lecture & lab, GenEd)
 >
 > <br>[Additionally, most higher level courses numbered PHYS.xxxx also satisfy this requirement. Please see the [Undergraduate Coordinator](mailto:ugcoord@uml.edu){target="_blank"} before taking a course to confirm that it will count as a natural science elective.]{.small}
 >
@@ -92,7 +92,7 @@ The courses in these departments that fulfill the CS natural science elective re
 
 <br>
 
-For the latest course information, please visit the [UMass Lowell on-line Academic Catalog](https://www.uml.edu/catalog/){target="_blank"}.
+For the latest course information, please visit the [UMass Lowell online Academic Catalog](https://www.uml.edu/catalog/){target="_blank"}.
 
 
 
@@ -111,19 +111,19 @@ For all students with a single major in CS, four CS electives are required.  Som
 
 | First Semester                            | Second Semester                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| COMP.3090 Database I                      | COMP.3100 Database II                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| COMP.4060 Intro. to Compiler Construction | *Additional CS Electives* [see above]                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| COMP.4110 Software Engineering I          | COMP.4120 Software Engineering II                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| COMP.4130 Data Communications I           | COMP.4140 Data Communications II  *— or —*<br> COMP.5610 Computer Security I  *— or —*<br> COMP.3611 Introduction to Computer Security  *— or —*<br> COMP.4611 Cyber Crime Investigation                                                                                                                                                                                                                                                                                                                    |
-| COMP.4200 Artificial Intelligence         | COMP.4210 Data Mining  *— or —*<br> COMP.4220 Machine Learning *— or —*<br> COMP.4500 Mobile Robotics                                                                                                                                                                                                                                                                                                                                                                                                       |
-| COMP.4210 Data Mining                     | COMP.4220 Machine Learning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| COMP.4220 Machine Learning                | COMP.4230 Computer Vision  *— or —*<br> COMP.4420 Natural Language Processing  *— or —*<br> COMP.4500 Mobile Robotics                                                                                                                                                                                                                                                                                                                                                                                       |
-| COMP.4270 Graphics I                      | COMP.4280 Graphics II                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| COMP.4630 Mobile App Programming I        | COMP.4631 Mobile App Programming II                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| COMP.2300 Intro. to Computer Security     | COMP.2350 Cyber Crime Investigation *— or —*<br> COMP.3310 Cyber Defense *— or —*<br> COMP.3300 Introduction to Malware Analysis *— or —*<br> COMP.4650 Introduction to IoT Security and Privacy *— or —*<br> COMP.5610 Computer & Network Security I *— or —*<br> COMP.5620 Computer Security II *— or —*<br> COMP.5660 Malware Analysis *— or —*<br> COMP.5670 IoT Security and Privacy *— or —*<br> COMP.5690 Computer and Network Forensics *— or —*<br> COMP.6610 Advanaced Topics in Network Security |
-| COMP.4610 GUI Programming I               | COMP.4620 GUI Programming II                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| COMP.5400 Visual Analytics                | COMP.5410 Data Visualization                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| COMP.5610 Computer Security I             | COMP.5620 Computer Security II                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [COMP.3090](https://www.uml.edu/catalog/courses/COMP/3090){target="_blank"} Database I                      | [COMP.3100](https://www.uml.edu/catalog/courses/COMP/3100){target="_blank"} Database II                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [COMP.4060](https://www.uml.edu/catalog/courses/COMP/4060){target="_blank"} Intro. to Compiler Construction | *Additional CS Electives* [see above]                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [COMP.4110](https://www.uml.edu/catalog/courses/COMP/4110){target="_blank"} Software Engineering I          | [COMP.4120](https://www.uml.edu/catalog/courses/COMP/4120){target="_blank"} Software Engineering II                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| [COMP.4130](https://www.uml.edu/catalog/courses/COMP/4130){target="_blank"} Data Communications I           | [COMP.4140](https://www.uml.edu/catalog/courses/COMP/4140){target="_blank"} Data Communications II  *— or —*<br> [COMP.5610](https://www.uml.edu/catalog/courses/COMP/5610){target="_blank"} Computer Security I  *— or —*<br> [COMP.3611](https://www.uml.edu/catalog/courses/COMP/3611){target="_blank"} Introduction to Computer Security  *— or —*<br> [COMP.4611](https://www.uml.edu/catalog/courses/COMP/4611){target="_blank"} Cyber Crime Investigation                                                                                                                                                                                                                                                                                                                    |
+| [COMP.4200](https://www.uml.edu/catalog/courses/COMP/4200){target="_blank"} Artificial Intelligence         | [COMP.4210](https://www.uml.edu/catalog/courses/COMP/4210){target="_blank"} Data Mining  *— or —*<br> [COMP.4220](https://www.uml.edu/catalog/courses/COMP/4220){target="_blank"} Machine Learning *— or —*<br> [COMP.4500](https://www.uml.edu/catalog/courses/COMP/4500){target="_blank"} Mobile Robotics                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [COMP.4210](https://www.uml.edu/catalog/courses/COMP/4210){target="_blank"} Data Mining                     | [COMP.4220](https://www.uml.edu/catalog/courses/COMP/4220){target="_blank"} Machine Learning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [COMP.4220](https://www.uml.edu/catalog/courses/COMP/4220){target="_blank"} Machine Learning                | [COMP.4230](https://www.uml.edu/catalog/courses/COMP/4230){target="_blank"} Computer Vision  *— or —*<br> [COMP.4420](https://www.uml.edu/catalog/courses/COMP/4420){target="_blank"} Natural Language Processing  *— or —*<br> [COMP.4500](https://www.uml.edu/catalog/courses/COMP/4500){target="_blank"} Mobile Robotics                                                                                                                                                                                                                                                                                                                                                                                       |
+| [COMP.4270](https://www.uml.edu/catalog/courses/COMP/4270){target="_blank"} Graphics I                      | [COMP.4280](https://www.uml.edu/catalog/courses/COMP/4280){target="_blank"} Graphics II                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [COMP.4630](https://www.uml.edu/catalog/courses/COMP/4630){target="_blank"} Mobile App Programming I        | [COMP.4631](https://www.uml.edu/catalog/courses/COMP/4631){target="_blank"} Mobile App Programming II                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| [COMP.2300](https://www.uml.edu/catalog/courses/COMP/2300){target="_blank"} Intro. to Computer Security     | [COMP.2350](https://www.uml.edu/catalog/courses/COMP/2350){target="_blank"} Cyber Crime Investigation *— or —*<br> [COMP.3310](https://www.uml.edu/catalog/courses/COMP/3310){target="_blank"} Cyber Defense *— or —*<br> [COMP.3300](https://www.uml.edu/catalog/courses/COMP/3300){target="_blank"} Introduction to Malware Analysis *— or —*<br> [COMP.4650](https://www.uml.edu/catalog/courses/COMP/4650){target="_blank"} Introduction to IoT Security and Privacy *— or —*<br> [COMP.5610](https://www.uml.edu/catalog/courses/COMP/5610){target="_blank"} Computer & Network Security I *— or —*<br> [COMP.5620](https://www.uml.edu/catalog/courses/COMP/5620){target="_blank"} Computer Security II *— or —*<br> [COMP.5660](https://www.uml.edu/catalog/courses/COMP/5660){target="_blank"} Malware Analysis *— or —*<br> [COMP.5670](https://www.uml.edu/catalog/courses/COMP/5670){target="_blank"} IoT Security and Privacy *— or —*<br> [COMP.5690](https://www.uml.edu/catalog/courses/COMP/5690){target="_blank"} Computer and Network Forensics *— or —*<br> [COMP.6610](https://www.uml.edu/catalog/courses/COMP/6610){target="_blank"} Advanaced Topics in Network Security |
+| [COMP.4610](https://www.uml.edu/catalog/courses/COMP/4610){target="_blank"} GUI Programming I               | [COMP.4620](https://www.uml.edu/catalog/courses/COMP/4620){target="_blank"} GUI Programming II                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [COMP.5400](https://www.uml.edu/catalog/courses/COMP/5400){target="_blank"} Visual Analytics                | [COMP.5410](https://www.uml.edu/catalog/courses/COMP/5410){target="_blank"} Data Visualization                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [COMP.5610](https://www.uml.edu/catalog/courses/COMP/5610){target="_blank"} Computer Security I             | [COMP.5620](https://www.uml.edu/catalog/courses/COMP/5620){target="_blank"} Computer Security II                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 <br>
 
@@ -132,13 +132,13 @@ For all students with a single major in CS, four CS electives are required.  Som
 > <br>
 > 
 > ::: {.text-center} 
-> COMP.4500 Mobile Robotics *— or —*<br> 
-> COMP.4510 Probabilistic Robotics *— or —*<br> 
-> COMP.4520 Robot Design *— or —*<br> 
-> COMP.4200 Artificial Intelligence *— or —*<br> 
-> COMP.4220 Machine Learning *— or —*<br> 
-> COMP.4240 Introduction to Reinforcement Learning *— or —*<br> 
-> COMP.5434 Reinforcement Learning *— or —*<br> 
-> COMP.5540 Human-Robot Interaction  
+> [COMP.4500](https://www.uml.edu/catalog/courses/COMP/4500){target="_blank"} Mobile Robotics *— or —*<br> 
+> [COMP.4510](https://www.uml.edu/catalog/courses/COMP/4510){target="_blank"} Probabilistic Robotics *— or —*<br> 
+> [COMP.4520](https://www.uml.edu/catalog/courses/COMP/4520){target="_blank"} Robot Design *— or —*<br> 
+> [COMP.4200](https://www.uml.edu/catalog/courses/COMP/4200){target="_blank"} Artificial Intelligence *— or —*<br> 
+> [COMP.4220](https://www.uml.edu/catalog/courses/COMP/4220){target="_blank"} Machine Learning *— or —*<br> 
+> [COMP.4240](https://www.uml.edu/catalog/courses/COMP/4240){target="_blank"} Introduction to Reinforcement Learning *— or —*<br> 
+> [COMP.5434](https://www.uml.edu/catalog/courses/COMP/5434){target="_blank"} Reinforcement Learning *— or —*<br> 
+> [COMP.5540](https://www.uml.edu/catalog/courses/COMP/5540){target="_blank"} Human-Robot Interaction  
 > :::  
 >  -->

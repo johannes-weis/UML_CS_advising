@@ -35,6 +35,9 @@ build_path := website/
 # The template file to structure each web page
 template_file := template/template.html
 
+# Script path; for python files
+script_path := py/
+
 # The deployment zip file name
 deploy_name := website.zip
 
@@ -67,8 +70,10 @@ output_files := $(patsubst %.md,%.html,$(input_files))
 # Pattern rule to convert .md to .html, placing each output file into its
 # corresponding subdirectory within the build directory
 $(build_path)%.html : $(src_path)%.md
-# Convert each markdown file to standalone html files with all resources
-# embedded using a template
+# Process all escape sequences in markdown files
+	@python3 $(script_path)course_catalog_regex.py $<
+
+# Convert each markdown file to standalone html files using a template
 	@pandoc --from markdown+smart \
 			--to html5 \
 			--template $(template_file) \
