@@ -1,12 +1,3 @@
-<!--
-404 links:
-	2 - additional information on robotics minor 
-	3 - Description of University General Education Requirements
-
-Incorrect links:
-	3 - The BS/MS program (no mention of BS->MS)
--->
-
 ---
 title: Advising Information for Computer Science at UMass Lowell
 ---
@@ -55,7 +46,6 @@ title: Advising Information for Computer Science at UMass Lowell
 >
 > - [Undergraduate Academic Policies](https://www.uml.edu/Catalog/Undergraduate/Policies/Academic-Policies/Academic-Policies.aspx){target="_blank"}
 > 	- [Grading](https://www.uml.edu/Registrar/Policies-and-Procedures/grading.aspx){target="_blank"}
->	<!-- 404 not found, replacing this one (4. Making the Dean's list) -->
 > 	- [Semester Honors](https://www.uml.edu/catalog/undergraduate/policies/academic-policies/academic-standing.aspx#semester_honors){target="_blank"}
 > 	- [Academic Integrity](https://www.uml.edu/Catalog/Undergraduate/Policies/Academic-Policies/Academic-Integrity.aspx){target="_blank"}
 > 	- [Grade Substitution & Deletions](https://www.uml.edu/Catalog/Undergraduate/Policies/Academic-Policies/Repeated-Coursework-and-Course-Deletions.aspx){target="_blank"}
@@ -65,14 +55,11 @@ title: Advising Information for Computer Science at UMass Lowell
 <!-- 4 -->
 > ## Elective Guides
 >
-> - [Electives for CS Majors (PDF)](./assets/PDF/GuideToCSandUniversityElectives.pdf){target="_blank"}
+> - [Electives for CS Majors](./electives_guide/index.html){target="_blank"}
 > 	- [Project Sequences](./project_sequences/index.html){target="_blank"}
-> <!-- THESE TWO LINK TO THE GENERAL OPTION ONLY -->
 > 	- [Computer Science Electives](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-general-2020.aspx){target="_blank"}
 > 	- [Technical Electives](https://www.uml.edu/catalog/undergraduate/sciences/departments/computer-science/degree-pathways/dp-cs-general-2020.aspx){target="_blank"}
-> <!--  -->
 > 	- [Natural Science Electives](./natural_sciences/index.html){target="_blank"}
-<!-- > 	- [Natural Science Electives (PDF)](./assets/PDF/CSNaturalScienceElectives.pdf){target="_blank"} -->
 > 	- [Arts and Humanities (AH) General Education](https://www.uml.edu/Catalog/Undergraduate/Core-Curriculum/BOK.aspx#:~:text=carry%20this%20perspective.-,AH,-%2D%20The%20Arts%20and){target="_blank"}
 > 	- [Social Sciences (SS) General Education](https://www.uml.edu/Catalog/Undergraduate/Core-Curriculum/BOK.aspx#:~:text=they%20will%20take.-,SS,-%2D%20The%20Social%20Sciences){target="_blank"}
 > 	- Gen Ed Requirements
@@ -92,7 +79,6 @@ title: Advising Information for Computer Science at UMass Lowell
 <!-- 6 -->
 > ## Transferring to UMass Lowell
 >
-> <!-- 404 not found, replacing this one (6. General University Admission Policies) -->
 > - [Undergraduate Admissions Policies](https://www.uml.edu/Catalog/Undergraduate/Policies/Admissions-Policies/){target="_blank"}
 > - [Course Transfer Dictionary](http://www.uml.edu/admin/registrar/transfer/){target="_blank"}
 >
@@ -111,8 +97,6 @@ title: Advising Information for Computer Science at UMass Lowell
 > ## UMass Lowell Honors Program
 >
 > - [Home](http://www.uml.edu/honors){target="_blank"}
-<!-- This also appears in CS Graduate Programs Section -->
-<!-- > - [CS Honors Thesis Guide](http://www.cs.swarthmore.edu/%7Enewhall/thesis_guide.html){target="_blank"} -->
 >
 
 <!-- 7 -->
