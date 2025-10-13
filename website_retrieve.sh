@@ -85,4 +85,4 @@ mv UML_CS_advising/$GITHUB_DIR/* .
 rm -rf UML_CS_advising
 
 # Add the neccessary permissions to the hosting directory
-sudo chmod 777 -R /usr/cs/web/$WEBSITE_DIR
+sudo chmod 777 -R /home/CIS/web/$WEBSITE_DIR 
